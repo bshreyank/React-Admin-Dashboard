@@ -597,7 +597,7 @@ export const chatData = [
 
 export const earningData = [
   {
-    icon: <MdOutlineSupervisorAccount />,
+    
     amount: '39,354',
     percentage: '-4%',
     title: 'Customers',
